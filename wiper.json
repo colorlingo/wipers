@@ -1,0 +1,2933 @@
+[
+ {
+  "car_brand": "AUDI",
+  "car_type": "C6",
+  "car_year": "2006-2011",
+  "wiper_size": "22*22",
+  "wiper_cnet": "K-8A*"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "C7",
+  "car_year": "2012-",
+  "wiper_size": "26*21",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "C6",
+  "car_year": "2006-2011",
+  "wiper_size": "22*22",
+  "wiper_cnet": "K-8A*"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "C7",
+  "car_year": "2012-",
+  "wiper_size": "26*21",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "4GA",
+  "car_year": "2012-",
+  "wiper_size": "24*21",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "D4",
+  "car_year": "2012-",
+  "wiper_size": "27*21",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "8RB",
+  "car_year": "2013-2017",
+  "wiper_size": "24*20",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "FYB",
+  "car_year": "2017-",
+  "wiper_size": "24*20",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "4MB",
+  "car_year": 2017,
+  "wiper_size": "27*21",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "8N3\/8N9\/MK1",
+  "car_year": "1998-2003",
+  "wiper_size": "22*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "8N3\/8N9\/MK1",
+  "car_year": "2003-2006",
+  "wiper_size": "21*21",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "8J3\/8J9\/MK2",
+  "car_year": "2006-2015",
+  "wiper_size": "22*21",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "FV3\/FV\/MK3",
+  "car_year": "2015-",
+  "wiper_size": "24*21",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "8J3\/8J9\/MK2",
+  "car_year": "2008-2015",
+  "wiper_size": "22*21",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "AUDI",
+  "car_type": "FV3\/FV\/MK3",
+  "car_year": "2015-",
+  "wiper_size": "24*21",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "ALFA ROMRO",
+  "car_type": 156,
+  "car_year": "1997-2005",
+  "wiper_size": "22*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "ALFA ROMRO",
+  "car_type": 159,
+  "car_year": "2005-2011",
+  "wiper_size": "23*18",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "Bentley",
+  "car_type": "Bentayga",
+  "car_year": "2016-",
+  "wiper_size": "27*21",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "Bentley",
+  "car_type": "Mulsanne",
+  "car_year": "2015-",
+  "wiper_size": "24*21",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E81\/E82\/E87\/E88",
+  "car_year": "2004-2011",
+  "wiper_size": "20*20",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F20\/F21",
+  "car_year": "2012-",
+  "wiper_size": "22*18",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F45\/2AT",
+  "car_year": "2014-",
+  "wiper_size": "26*19",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F22\/F23",
+  "car_year": "2014-",
+  "wiper_size": "22*18",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F46\/2GT",
+  "car_year": "2015-",
+  "wiper_size": "26*19",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E36",
+  "car_year": "1990-1998",
+  "wiper_size": "21*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E46",
+  "car_year": "1998-2005",
+  "wiper_size": "23*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E90\/E91",
+  "car_year": "2005-2009",
+  "wiper_size": "24*21",
+  "wiper_cnet": "K-2*"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E92\/E93",
+  "car_year": "2006-2009",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-2*"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E90\/E91",
+  "car_year": "2010-2013",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K-2*"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E92\/E93",
+  "car_year": "2010-2013",
+  "wiper_size": "24*16",
+  "wiper_cnet": "K-2*"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F30\/F31\/F34\/F35",
+  "car_year": "2012-2019",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F32\/F33\/F36",
+  "car_year": "2014-",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E39",
+  "car_year": "1996-2003",
+  "wiper_size": "26*22",
+  "wiper_cnet": "特殊鋼骨"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E60\/E61",
+  "car_year": "2003-2010",
+  "wiper_size": "24*23",
+  "wiper_cnet": "K6"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F10\/F11",
+  "car_year": "2010-2017",
+  "wiper_size": "26*18",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F70 GT",
+  "car_year": "2010-",
+  "wiper_size": "26*18",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "G30\/G31",
+  "car_year": "2017-",
+  "wiper_size": "26*19",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E63\/E64",
+  "car_year": "2004-2012",
+  "wiper_size": "24*23",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F12\/F13\/F06",
+  "car_year": "2011-2017",
+  "wiper_size": "26*17",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E38",
+  "car_year": "1994~2000",
+  "wiper_size": "25*24",
+  "wiper_cnet": "特殊鋼骨"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E65\/E66",
+  "car_year": "2001\/2008",
+  "wiper_size": "25*25",
+  "wiper_cnet": "特殊鋼骨"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F01\/F02\/F03\/F04",
+  "car_year": "2009-2015",
+  "wiper_size": "26*18",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "G11\/G12",
+  "car_year": "2016-",
+  "wiper_size": "26*19",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E46",
+  "car_year": "2000-2006",
+  "wiper_size": "23*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F80",
+  "car_year": "2014-",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F82",
+  "car_year": "2014-",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E84",
+  "car_year": "2009-2015",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F48",
+  "car_year": "2015-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E83",
+  "car_year": "2004~2010",
+  "wiper_size": "22*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F25",
+  "car_year": "2010~2017",
+  "wiper_size": "26*20",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "G01",
+  "car_year": "2018~",
+  "wiper_size": "26*20",
+  "wiper_cnet": "K-10"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E53",
+  "car_year": "2000-2007",
+  "wiper_size": "24*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E70",
+  "car_year": "2007-2009",
+  "wiper_size": "24*20",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E70",
+  "car_year": "2010-2011",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E70",
+  "car_year": "2012-2013",
+  "wiper_size": "24*20",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E15",
+  "car_year": "2014-2018",
+  "wiper_size": "24*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E70\/E72",
+  "car_year": "2007-2014",
+  "wiper_size": "24*20",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E70\/E72",
+  "car_year": "2012-2014",
+  "wiper_size": "24*20",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F16",
+  "car_year": "2015-",
+  "wiper_size": "24*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "F16",
+  "car_year": "1995-2003",
+  "wiper_size": "20*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E85\/E86",
+  "car_year": "2002-2008",
+  "wiper_size": "21*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "BMW",
+  "car_type": "E89",
+  "car_year": "2009-",
+  "wiper_size": "21*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "CITROEN",
+  "car_type": "Berlingo",
+  "car_year": "2008-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "CITROEN",
+  "car_type": "C2",
+  "car_year": "2003-",
+  "wiper_size": "24*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "CITROEN",
+  "car_type": "A58",
+  "car_year": "2010-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "專用"
+ },
+ {
+  "car_brand": "CITROEN",
+  "car_type": "C4",
+  "car_year": "2004-2009",
+  "wiper_size": "28*24",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "CITROEN",
+  "car_type": "C5",
+  "car_year": "2008-",
+  "wiper_size": "28*22",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "CITROEN",
+  "car_type": "A55\/A56",
+  "car_year": "2009-2015",
+  "wiper_size": "24*16",
+  "wiper_cnet": "專用"
+ },
+ {
+  "car_brand": "CADILLAC",
+  "car_type": "SRX",
+  "car_year": "2009~",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "DAIHATSU",
+  "car_type": "Sirion",
+  "car_year": "2008-",
+  "wiper_size": "20*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "DAIHATSU",
+  "car_type": "Terios",
+  "car_year": "2000-2006",
+  "wiper_size": "20*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "DAIHATSU",
+  "car_type": "Terios",
+  "car_year": "2006-",
+  "wiper_size": "21*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "FIAT ",
+  "car_type": "Punto\/188",
+  "car_year": "1999-2010",
+  "wiper_size": "22*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "FIAT ",
+  "car_type": "Punto\/199",
+  "car_year": "2012-",
+  "wiper_size": "26*14",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "FIAT ",
+  "car_type": "Punto Grande\/199",
+  "car_year": "2005-2011",
+  "wiper_size": "26*14",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Fiesta\/MK6",
+  "car_year": "2006-2009",
+  "wiper_size": "22*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Fiesta\/MK7",
+  "car_year": "2008-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Focus\/MK2",
+  "car_year": "2004-2012",
+  "wiper_size": "26*17",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Focus\/MK3",
+  "car_year": "2013-2014",
+  "wiper_size": "28*28",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Focus\/MK3",
+  "car_year": "2014-2019",
+  "wiper_size": "28*28",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Focus\/MK4",
+  "car_year": 2019,
+  "wiper_size": "26*20",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "I-Max\/",
+  "car_year": "2007-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Kuga\/",
+  "car_year": "2013-",
+  "wiper_size": "28*28",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Mav\/",
+  "car_year": "2000-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Metrostar\/",
+  "car_year": "2001-",
+  "wiper_size": "22*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Mondeo\/MK3",
+  "car_year": "2000-2007",
+  "wiper_size": "22*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Mondeo\/MK4",
+  "car_year": "2007-2014",
+  "wiper_size": "26*19",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Mondeo\/MK5",
+  "car_year": "2015-",
+  "wiper_size": "28*28",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Mustang\/",
+  "car_year": "2012-",
+  "wiper_size": "22*20",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "New Festive\/",
+  "car_year": "1996-",
+  "wiper_size": "20*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Ranger\/",
+  "car_year": "2010-2015",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Ranger\/",
+  "car_year": "2016-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Taurua\/",
+  "car_year": "1996-",
+  "wiper_size": "24*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Tierra\/",
+  "car_year": "1998-",
+  "wiper_size": "21*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "FORD",
+  "car_type": "Tourneo Custom\/",
+  "car_year": "2014-",
+  "wiper_size": "30*28",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "i10\/",
+  "car_year": "2009-",
+  "wiper_size": "22*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "i30\/",
+  "car_year": "2009-",
+  "wiper_size": "24*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "iX35\/",
+  "car_year": "2010-2016",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Matrix\/",
+  "car_year": "2002-",
+  "wiper_size": "22*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "NEW Coupe\/",
+  "car_year": "2003-",
+  "wiper_size": "21*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Porter\/",
+  "car_year": "2005-2018",
+  "wiper_size": "18*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Porter\/",
+  "car_year": "2018-",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "SantaFe\/",
+  "car_year": "20002-2005",
+  "wiper_size": "22*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "SantaFe\/",
+  "car_year": "2006-2013",
+  "wiper_size": "24*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "SantaFe\/",
+  "car_year": "2014-",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Santamo\/",
+  "car_year": "2000-",
+  "wiper_size": "22*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Sonata\/",
+  "car_year": "1998-2001",
+  "wiper_size": "20*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Sonata\/",
+  "car_year": "2001-2004",
+  "wiper_size": "22*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Sonata\/",
+  "car_year": "2005-2010",
+  "wiper_size": "24*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Sonata\/",
+  "car_year": "2011-2014",
+  "wiper_size": "26*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Sonata\/",
+  "car_year": "2015-",
+  "wiper_size": "26*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Sorento\/",
+  "car_year": "2017-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Starex\/",
+  "car_year": "2007-",
+  "wiper_size": "24*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Terracan\/",
+  "car_year": "2001-",
+  "wiper_size": "22*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Trajet\/",
+  "car_year": "2000-",
+  "wiper_size": "26*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Tucson\/",
+  "car_year": "2005-2010",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Tucson\/",
+  "car_year": "2016-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Veloster\/",
+  "car_year": "2012-2019",
+  "wiper_size": "26*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "Veloster\/",
+  "car_year": "2019-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HYUNDAI",
+  "car_type": "XG 2.0\/",
+  "car_year": "2001-",
+  "wiper_size": "22*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "Accord\/ ",
+  "car_year": "1990-2002",
+  "wiper_size": "24*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "Accord\/",
+  "car_year": "2003-2013",
+  "wiper_size": "26*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "Accord\/",
+  "car_year": "2014-",
+  "wiper_size": "26*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "City\/",
+  "car_year": "1996-2002",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "City\/",
+  "car_year": 2014,
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CIVIC\/5TH",
+  "car_year": "1992-1995",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CIVIC\/6TH",
+  "car_year": "1996-2000",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CIVIC\/7TH",
+  "car_year": "2001-2006",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CIVIC\/8TH",
+  "car_year": "2006-2007",
+  "wiper_size": "26*23",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CIVIC\/8TH",
+  "car_year": "2008-2012",
+  "wiper_size": "26*23",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CIVIC\/9TH",
+  "car_year": "2012-",
+  "wiper_size": "26*23",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CRV\/1TH",
+  "car_year": "1997-2002",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CRV\/2TH",
+  "car_year": "2003-2006",
+  "wiper_size": "22*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CRV\/3TH",
+  "car_year": "2007-2012",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CRV\/4TH",
+  "car_year": "2012-2017",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CRV\/5TH",
+  "car_year": "2017-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "CRZ\/",
+  "car_year": "2010-",
+  "wiper_size": "26*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "Domani\/",
+  "car_year": "1997-",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "Fit\/",
+  "car_year": "2008-2014",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "Fit\/",
+  "car_year": "2014-",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "HR-V\/",
+  "car_year": "2016-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "Insigh\/",
+  "car_year": "2010-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "Legend\/",
+  "car_year": "1999-",
+  "wiper_size": "21*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "Odyssey\/",
+  "car_year": "2013-2016",
+  "wiper_size": "26*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "Odyssey\/",
+  "car_year": "2016-",
+  "wiper_size": "28*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "HONDA",
+  "car_type": "Stream\/",
+  "car_year": "2001-",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "INFINITI ",
+  "car_type": "Q70\/",
+  "car_year": "2015-",
+  "wiper_size": "26*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "INFINITI ",
+  "car_type": "QX30\/",
+  "car_year": "2018-",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "INFINITI ",
+  "car_type": "QX50\/",
+  "car_year": "2016-",
+  "wiper_size": "24*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "INFINITI ",
+  "car_type": "QX60\/",
+  "car_year": "2012-2016",
+  "wiper_size": "26*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "INFINITI ",
+  "car_type": "QX60\/",
+  "car_year": "2016-",
+  "wiper_size": "26*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "INFINITI ",
+  "car_type": "QX70\/",
+  "car_year": "2013-",
+  "wiper_size": "24*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "JAGUAR",
+  "car_type": "F-PACE\/",
+  "car_year": "2016-",
+  "wiper_size": "26*19",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "JAGUAR",
+  "car_type": "F-TYPE\/",
+  "car_year": "2016-",
+  "wiper_size": "22*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "JAGUAR",
+  "car_type": "S-TYPE\/",
+  "car_year": "2002-2008",
+  "wiper_size": "24*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "JAGUAR",
+  "car_type": "XE\/",
+  "car_year": "2016-",
+  "wiper_size": "28*17",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "JAGUAR",
+  "car_type": "XF\/",
+  "car_year": "2008-2015",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "JAGUAR",
+  "car_type": "XF\/",
+  "car_year": "2016-",
+  "wiper_size": "28*17",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "JAGUAR",
+  "car_type": "XF Sportbrake\/",
+  "car_year": "2012-",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "JAGUAR",
+  "car_type": "XJ\/",
+  "car_year": "2010-",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "JAGUAR",
+  "car_type": "X- TYPE\/",
+  "car_year": "2001-2009",
+  "wiper_size": "22*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "KAI",
+  "car_type": "Carens\/",
+  "car_year": "2015-",
+  "wiper_size": "28*28",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "KAI",
+  "car_type": "Euro Star\/",
+  "car_year": "2004-",
+  "wiper_size": "22*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "KAI",
+  "car_type": "Kaon\/",
+  "car_year": "2003-",
+  "wiper_size": "22*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "KAI",
+  "car_type": "Morning\/",
+  "car_year": "2014-",
+  "wiper_size": "22*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "KAI",
+  "car_type": "Picanto\/",
+  "car_year": "2018-",
+  "wiper_size": "24*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "KAI",
+  "car_type": "Sorento\/",
+  "car_year": "2017-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "KAI",
+  "car_type": "Soul\/",
+  "car_year": "2017-",
+  "wiper_size": "24*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "KAI",
+  "car_type": "Sportage\/",
+  "car_year": "2010-2015",
+  "wiper_size": "24*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "KAI",
+  "car_type": "Sportage\/",
+  "car_year": "2016-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "5 SEDAN\/",
+  "car_year": "2012-2013",
+  "wiper_size": "24*17",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "7 MPV ceo 2.2\/",
+  "car_year": "2009-2013",
+  "wiper_size": "26*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "M7 Turbo\/",
+  "car_year": "2014-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "S3\/",
+  "car_year": "2015-",
+  "wiper_size": "22*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "S5\/",
+  "car_year": "2014-2015",
+  "wiper_size": "24*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "S5\/",
+  "car_year": "2015-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "U5\/",
+  "car_year": "2017-",
+  "wiper_size": "22*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "U6 GT\/",
+  "car_year": "2017-",
+  "wiper_size": "24*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "U6 Turbo\/",
+  "car_year": "2013-2017",
+  "wiper_size": "24*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "U7 SUV\/",
+  "car_year": "2010-2012",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "U7 SUV\/",
+  "car_year": "2012-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "LUXGEN",
+  "car_type": "V7\/",
+  "car_year": "2016-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "Land Rover",
+  "car_type": "Discovery\/",
+  "car_year": "2004-2017",
+  "wiper_size": "22*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "Land Rover",
+  "car_type": "Discovery\/",
+  "car_year": "2017-",
+  "wiper_size": "24*20",
+  "wiper_cnet": "K-10"
+ },
+ {
+  "car_brand": "Land Rover",
+  "car_type": "Discovery\/",
+  "car_year": "2015-",
+  "wiper_size": "26*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "Land Rover",
+  "car_type": "Sport\/",
+  "wiper_cnet": "專用"
+ },
+ {
+  "car_brand": "Land Rover",
+  "car_type": "Freelander\/",
+  "car_year": "1997-2007",
+  "wiper_size": "22*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "Land Rover",
+  "car_type": "Freelander\/",
+  "car_year": "2007-",
+  "wiper_size": "24*20",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "Land Rover",
+  "car_type": "Range Rover\/",
+  "car_year": "2013-",
+  "wiper_size": "24*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "Land Rover",
+  "car_type": "Range Rover Evo\/",
+  "car_year": "2011-",
+  "wiper_size": "24*21",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "Land Rover",
+  "car_type": "Range Rover Spo\/",
+  "car_year": "2005-2013",
+  "wiper_size": "22*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "Land Rover",
+  "car_type": "Range Rover Spo\/",
+  "car_year": "2013-",
+  "wiper_size": "24*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "GS\/",
+  "car_year": "1993-1997",
+  "wiper_size": "21*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "GS\/",
+  "car_year": "1997-2011",
+  "wiper_size": "24*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "GS\/",
+  "car_year": "2012-",
+  "wiper_size": "26*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "IS\/",
+  "car_year": "1999-2005",
+  "wiper_size": "22*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "IS\/",
+  "car_year": "2005-2013",
+  "wiper_size": "22*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "IS\/",
+  "car_year": "2013-",
+  "wiper_size": "24*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "LC\/",
+  "car_year": "2017-",
+  "wiper_size": "26*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "LS\/",
+  "car_year": "1990-1999",
+  "wiper_size": "22*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "LS\/",
+  "car_year": "2000-2006",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "LX\/470",
+  "car_year": "1998-2007",
+  "wiper_size": "20*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "LX\/570",
+  "car_year": "2007-2012",
+  "wiper_size": "24*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "LX\/570",
+  "car_year": "2012-",
+  "wiper_size": "24*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "NX\/",
+  "car_year": "2014-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-10"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "UX\/",
+  "car_year": "2018-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "RX\/",
+  "car_year": "1999-2003",
+  "wiper_size": "26*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "RX\/",
+  "car_year": "2003-2008",
+  "wiper_size": "26*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "RX\/",
+  "car_year": "2009-2015",
+  "wiper_size": "26*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "RX\/",
+  "car_year": "2015-",
+  "wiper_size": "26*21",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "LEXUS",
+  "car_type": "SC\/",
+  "car_year": "2001-",
+  "wiper_size": "24*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "R Class\/R280\/R320\/R350",
+  "car_year": "2005-",
+  "wiper_size": "28*21",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "S Class\/W140",
+  "car_year": "1991-1998",
+  "wiper_size": "28*25",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "S Class\/W220",
+  "car_year": "1998-2000",
+  "wiper_size": "27*27",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "S Class\/W220",
+  "car_year": "2000-2005",
+  "wiper_size": "28*28",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "S Class\/W221",
+  "car_year": "2005-2013",
+  "wiper_size": "28*28",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "S Class\/W222",
+  "car_year": "2013-",
+  "wiper_size": "26*22",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "S Class\/W222(噴水頭)",
+  "car_year": "2014-",
+  "wiper_size": "25*23",
+  "wiper_cnet": "專用"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "SL\/R230",
+  "car_year": "2001-2012",
+  "wiper_size": "26*26",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "SL\/W172",
+  "car_year": "2016-",
+  "wiper_size": "22*22",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "SLK\/R170",
+  "car_year": "1996-2004",
+  "wiper_size": "22*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "SLK\/R171\/ R172",
+  "car_year": "2005-",
+  "wiper_size": "22*22",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "SLR\/W199",
+  "car_year": 2007,
+  "wiper_size": "26*26",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "V Class\/W447",
+  "car_year": "2014-",
+  "wiper_size": "28*18",
+  "wiper_cnet": "F90*"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "Vaneo\/W414",
+  "car_year": "2004-2005",
+  "wiper_size": "26*23",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "Viano\/W639",
+  "car_year": "2005-2014",
+  "wiper_size": "28*26",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "Vito\/W639",
+  "car_year": "2005-2014",
+  "wiper_size": "28*26",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "Vito  (Metris)\/W447",
+  "car_year": "2015-",
+  "wiper_size": "28*18",
+  "wiper_cnet": "F90*"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "E Class\/W207",
+  "car_year": "2009-2013",
+  "wiper_size": "24*24",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "E Class\/W207",
+  "car_year": "2013-",
+  "wiper_size": "24*24",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "E Class\/W212",
+  "car_year": "2014-2015",
+  "wiper_size": "24*24",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "E Class\/W213",
+  "car_year": "2016-",
+  "wiper_size": "24*22",
+  "wiper_cnet": "專用"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "G Class\/W460\/W463",
+  "car_year": "1998-2005",
+  "wiper_size": "16*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "GL\/W164",
+  "car_year": "2007-2012",
+  "wiper_size": "28*21",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "GL\/W166",
+  "car_year": "2012-",
+  "wiper_size": "26*23",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "GLA\/X156",
+  "car_year": "2014-2015",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "GLA\/X156",
+  "car_year": "2015-",
+  "wiper_size": "24*19",
+  "wiper_cnet": "專用"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "GLC\/X253",
+  "car_year": "2015-",
+  "wiper_size": "22*22",
+  "wiper_cnet": "專用"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "GLE\/C166",
+  "car_year": "2015-",
+  "wiper_size": "26*23",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "GLE\/W292",
+  "car_year": "2015-",
+  "wiper_size": "26*23",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "GLK\/X204",
+  "car_year": "2008-2014",
+  "wiper_size": "22*19",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "GLK\/X204",
+  "car_year": "2014-",
+  "wiper_size": "22*19",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "GLS\/OM642",
+  "car_year": "2016-",
+  "wiper_size": "26*23",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "ML\/W163",
+  "car_year": "1997-2005",
+  "wiper_size": "22*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "ML\/W164",
+  "car_year": "2005-2012",
+  "wiper_size": "28*21",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "MERCEDES BENZ",
+  "car_type": "ML\/W166",
+  "car_year": "2012-",
+  "wiper_size": "26*23",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "Mini",
+  "car_type": "Coupe\/R58",
+  "car_year": "2011-",
+  "wiper_size": "21*20",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "Mini",
+  "car_type": "One\/R50\/ R53\/R56",
+  "car_year": "2001-2012",
+  "wiper_size": "19*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "Mini",
+  "car_type": "One\/R56",
+  "car_year": "2012-2013",
+  "wiper_size": "19*18",
+  "wiper_cnet": "K-8A*"
+ },
+ {
+  "car_brand": "Mini",
+  "car_type": "One\/F55\/F56",
+  "car_year": "2014-",
+  "wiper_size": "19*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "Mini",
+  "car_type": "Paceman\/R61",
+  "car_year": 2013,
+  "wiper_size": "20*19",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "Mini",
+  "car_type": "Roadster\/R59",
+  "car_year": "2012-",
+  "wiper_size": "21*20",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "MITSUBISHI",
+  "car_type": "Savrin\/",
+  "car_year": "2001-2013",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MITSUBISHI",
+  "car_type": "Space Gear\/",
+  "car_year": "1997-",
+  "wiper_size": "26*26",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MITSUBISHI",
+  "car_type": "Varica\/",
+  "car_year": "1989-2000",
+  "wiper_size": "16*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MITSUBISHI",
+  "car_type": "Veryca\/",
+  "car_year": "2000-2018",
+  "wiper_size": "18*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MITSUBISHI",
+  "car_type": "Zinger\/",
+  "car_year": "2006-2014",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MITSUBISHI",
+  "car_type": "Zinger\/",
+  "car_year": "2015-",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MASARATI",
+  "car_type": "Ghibli\/",
+  "car_year": "2014-",
+  "wiper_size": "26*18",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "MAZDA   5\/",
+  "car_year": "2005-2011",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "MAZDA   5\/",
+  "car_year": "2011-2016",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "MAZDA   6\/",
+  "car_year": "2002-",
+  "wiper_size": "21*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "MAZDA   6\/",
+  "car_year": "2008-2012",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "MAZDA   6\/",
+  "car_year": "2013-",
+  "wiper_size": "24*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "Millenia\/",
+  "car_year": "1997-",
+  "wiper_size": "21*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "MPV\/",
+  "car_year": "1998-1999",
+  "wiper_size": "22*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "MPV\/",
+  "car_year": "1999-",
+  "wiper_size": "24*24",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "MX-5\/",
+  "car_year": "1989-2015",
+  "wiper_size": "18*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "MX-5\/",
+  "car_year": "2016-",
+  "wiper_size": "19*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "MX-6\/",
+  "car_year": "1992-1998",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "PREMACY\/",
+  "car_year": "2000-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "TRIBUTE\/",
+  "car_year": "2000-2007",
+  "wiper_size": "19*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "MAZDA",
+  "car_type": "TRIBUTE\/",
+  "car_year": "2008-2010",
+  "wiper_size": "19*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Quest\/",
+  "car_year": "1993-1998",
+  "wiper_size": "22*22",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "QX4\/",
+  "car_year": "1997-",
+  "wiper_size": "22*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Rogue\/",
+  "car_year": "2009-",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Saiphi\/",
+  "car_year": "2007-",
+  "wiper_size": "22*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Sentra\/331",
+  "car_year": "1995-1996",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Sentra\/CE",
+  "car_year": "1996-1998",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Sentra\/HV",
+  "car_year": "1998-",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Sentra\/180",
+  "car_year": "2000-",
+  "wiper_size": "22*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Sentra\/SUPER",
+  "car_year": "2013-",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Sentra\/",
+  "car_year": "2020-",
+  "wiper_size": "24*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Serena\/ ",
+  "car_year": "2001-2005",
+  "wiper_size": "22*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Serena\/",
+  "car_year": "2006-",
+  "wiper_size": "24*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Teana\/",
+  "car_year": "2004-2009",
+  "wiper_size": "24*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Teana\/",
+  "car_year": "2009-",
+  "wiper_size": "26*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Tiida\/",
+  "car_year": "2006-2012",
+  "wiper_size": "22*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Tiida\/BIG",
+  "car_year": "2013-",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "Verita\/",
+  "car_year": "1997-",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "X Trail\/",
+  "car_year": "2002-2014",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "NISSAN",
+  "car_type": "X Trail\/",
+  "car_year": "2015-",
+  "wiper_size": "26*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "OPEL",
+  "car_type": "Adam\/",
+  "car_year": "2013-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "OPEL",
+  "car_type": "Astra\/",
+  "car_year": "2004-",
+  "wiper_size": "22*18",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "OPEL",
+  "car_type": "Corsa D\/",
+  "car_year": "2006-",
+  "wiper_size": "26*17",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "OPEL",
+  "car_type": "Zafira B\/",
+  "car_year": "2005-2014",
+  "wiper_size": "28*22",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "PORSCHE",
+  "car_type": "Cayman\/987C",
+  "car_year": "2006-2012",
+  "wiper_size": "22*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "PORSCHE",
+  "car_type": "Cayman\/981C",
+  "car_year": "2013-2016",
+  "wiper_size": "23*21",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "PORSCHE",
+  "car_type": "Cayman\/718C",
+  "car_year": "2016-",
+  "wiper_size": "23*21",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "PORSCHE",
+  "car_type": "Macan\/",
+  "car_year": "2014-",
+  "wiper_size": "24*20",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "PORSCHE",
+  "car_type": "Panamera\/970",
+  "car_year": "2009-2012",
+  "wiper_size": "24*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "PORSCHE",
+  "car_type": "Panamera\/970",
+  "car_year": "2013-2016",
+  "wiper_size": "26*20",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "PORSCHE",
+  "car_type": "Panamera\/",
+  "car_year": "2017-",
+  "wiper_size": "26*20",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "2008\/",
+  "car_year": "2013-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "206\/T1",
+  "car_year": "1998-2009",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "206 +\/T3",
+  "car_year": "2009-2013",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "206 CC\/T1",
+  "car_year": "2000-2007",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "206 SW\/T1",
+  "car_year": "2002-2006",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "207\/A7",
+  "car_year": "2006-",
+  "wiper_size": "26*17",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "207 CC\/A7",
+  "car_year": "2007-",
+  "wiper_size": "26*17",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "207 SW\/A7",
+  "car_year": "2007-",
+  "wiper_size": "26*17",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "208\/",
+  "car_year": "2012-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "3008\/",
+  "car_year": "2017-",
+  "wiper_size": "28*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "301\/",
+  "car_year": "2012-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "專用"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "307\/T5\/T6",
+  "car_year": "2004-2008",
+  "wiper_size": "28*26",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "307 CC\/",
+  "car_year": "2003-2005",
+  "wiper_size": "28*24",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "307 CC\/",
+  "car_year": "2005-2009",
+  "wiper_size": "28*26",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "307 SW\/T5\/T6",
+  "car_year": "2004-2008",
+  "wiper_size": "28*26",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "308\/T9",
+  "car_year": "2014-",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "308 SW\/T9",
+  "car_year": "2014-",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "407\/",
+  "car_year": "2004-",
+  "wiper_size": "28*28",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "5008\/PB7",
+  "car_year": "2018-",
+  "wiper_size": "28*16",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "508\/",
+  "car_year": "2010-",
+  "wiper_size": "26*26",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "508 RXH\/",
+  "car_year": "2011-",
+  "wiper_size": "26*26",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "508 SW\/",
+  "car_year": "2010-",
+  "wiper_size": "26*26",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "PEUGEOT",
+  "car_type": "Partner\/",
+  "car_year": "2008-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "RENAULT",
+  "car_type": "Clio\/MK3",
+  "car_year": "2005-2012",
+  "wiper_size": "24*16",
+  "wiper_cnet": "K-8A*"
+ },
+ {
+  "car_brand": "RENAULT",
+  "car_type": "Clio\/MK4",
+  "car_year": "2012-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "K-8A*"
+ },
+ {
+  "car_brand": "RENAULT",
+  "car_type": "Clio(CAMPUS)\/",
+  "car_year": "2009-",
+  "wiper_size": "20*18",
+  "wiper_cnet": "K-8A*"
+ },
+ {
+  "car_brand": "RENAULT",
+  "car_type": "Koleos\/",
+  "car_year": "2008-",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K6"
+ },
+ {
+  "car_brand": "RENAULT",
+  "car_type": "Megane\/MK2",
+  "car_year": "2006-2008",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-8A*"
+ },
+ {
+  "car_brand": "RENAULT",
+  "car_type": "Megane\/MK3",
+  "car_year": "2009-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "K-8A*"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Citigo\/",
+  "car_year": "2013-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Fabia\/5J2",
+  "car_year": "2007-2014",
+  "wiper_size": "21*21",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Fabia\/NJ3",
+  "car_year": "2015-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Karoq\/",
+  "car_year": "2018-",
+  "wiper_size": "26*18",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Kodiaq\/NS7",
+  "car_year": "2017-",
+  "wiper_size": "24*21",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Octavia\/1Z3",
+  "car_year": "2004-2012",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Octavia\/5E3",
+  "car_year": "2013-",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Rapid\/NH3",
+  "car_year": "2012-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Roomster\/5J7",
+  "car_year": "2006-",
+  "wiper_size": "21*21",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Superb\/3T4",
+  "car_year": "2008-2014",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Superb\/3V3",
+  "car_year": "2015-",
+  "wiper_size": "26*18",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "SKODA",
+  "car_type": "Yeti\/5L7",
+  "car_year": "2009-",
+  "wiper_size": "24*19",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "SAAB",
+  "car_type": "93\/",
+  "car_year": "2002-2007",
+  "wiper_size": "23*23",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SAAB",
+  "car_type": "93\/",
+  "car_year": "2008-2012",
+  "wiper_size": "23*23",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "SAAB",
+  "car_type": "95\/",
+  "car_year": "1997-2007",
+  "wiper_size": "23*23",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SAAB",
+  "car_type": "95\/",
+  "car_year": "2008-2010",
+  "wiper_size": "23*23",
+  "wiper_cnet": "專用"
+ },
+ {
+  "car_brand": "SAAB",
+  "car_type": "95\/",
+  "car_year": "2011-2012",
+  "wiper_size": "24*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SMART",
+  "car_type": "Forfour\/454",
+  "car_year": "2004-2007",
+  "wiper_size": "26*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SMART",
+  "car_type": "Forfour\/",
+  "car_year": "2015-",
+  "wiper_size": "20*14",
+  "wiper_cnet": "K-8A*"
+ },
+ {
+  "car_brand": "SMART",
+  "car_type": "Fortwo\/450",
+  "car_year": "2004-2007",
+  "wiper_size": "21*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SMART",
+  "car_type": "Fortwo\/451",
+  "car_year": "2007-2014",
+  "wiper_size": "22*21",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "SMART",
+  "car_type": "Fortwo\/453",
+  "car_year": "2015-",
+  "wiper_size": "20*14",
+  "wiper_cnet": "K-8A*"
+ },
+ {
+  "car_brand": "SMART",
+  "car_type": "Roadster\/452",
+  "car_year": "2003-2007",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SSANGYOONG",
+  "car_type": "Actyon Sports\/",
+  "car_year": "2012-",
+  "wiper_size": "21*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SSANGYOONG",
+  "car_type": "Stavic\/",
+  "car_year": "2016-",
+  "wiper_size": "24*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SSANGYOONG",
+  "car_type": "Tivoli\/",
+  "car_year": "2018-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "BRZ\/",
+  "car_year": "2012-",
+  "wiper_size": "24*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Forester\/SG",
+  "car_year": "2002-2007",
+  "wiper_size": "22*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Forester\/SH",
+  "car_year": "2008-2012",
+  "wiper_size": "24*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Forester\/SJ",
+  "car_year": "2013-2017",
+  "wiper_size": "26*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Forester\/SK",
+  "car_year": "2017-",
+  "wiper_size": "26*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Impreza\/",
+  "car_year": "2008-2013",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Impreza\/",
+  "car_year": "2013-2016",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Impreza\/",
+  "car_year": "2017-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Legacy\/",
+  "car_year": "2003-2008",
+  "wiper_size": "24*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Legacy\/",
+  "car_year": "2009-",
+  "wiper_size": "26*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Levorg\/",
+  "car_year": "2015-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Outback\/",
+  "car_year": "2009-2014",
+  "wiper_size": "26*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "Outback\/",
+  "car_year": "2015-",
+  "wiper_size": "26*17",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "WRX\/",
+  "car_year": "2014-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "XV\/",
+  "car_year": "2011-2017",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "XV\/",
+  "car_year": "2017-",
+  "wiper_size": "26*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUBARU",
+  "car_type": "XV\/",
+  "car_year": "2018-",
+  "wiper_size": "26*26",
+  "wiper_cnet": "K-10"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Alto\/",
+  "car_year": "2010-",
+  "wiper_size": "21*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Baleno\/",
+  "car_year": "2017-",
+  "wiper_size": "21*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Carry\/",
+  "car_year": "1995-1998",
+  "wiper_size": "16*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Culus\/",
+  "car_year": "1993-1999",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Escudo\/",
+  "car_year": "1990-1992",
+  "wiper_size": "18*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Esteem\/",
+  "car_year": "1997-",
+  "wiper_size": "18*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Grand Vitara\/",
+  "car_year": "1995-",
+  "wiper_size": "19*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Grand Vitara JP\/",
+  "car_year": "2006-2015",
+  "wiper_size": "19*19",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Ignis\/",
+  "car_year": "2001-2017",
+  "wiper_size": "19*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Ignis\/",
+  "car_year": "2017-",
+  "wiper_size": "21*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Jimny\/",
+  "car_year": "2000-2017",
+  "wiper_size": "18*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Liana\/",
+  "car_year": "2001-",
+  "wiper_size": "22*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Nippy\/",
+  "car_year": "2006-",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Solio\/",
+  "car_year": "2002-",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Super Vitara\/",
+  "car_year": "1995-",
+  "wiper_size": "18*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Swift\/",
+  "car_year": "2006-2017",
+  "wiper_size": "21*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Swift\/",
+  "car_year": "2017-",
+  "wiper_size": "21*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "SX4\/",
+  "car_year": "2006-2013",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "SX4\/",
+  "car_year": "2014-",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Vitara\/",
+  "car_year": "1992-1995",
+  "wiper_size": "18*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "Vitara\/",
+  "car_year": "2016-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "SUZUKI",
+  "car_type": "WAGOR R+\/",
+  "car_year": "1999-",
+  "wiper_size": "20*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "TOYOTA",
+  "car_type": "Wish\/",
+  "car_year": "2004-2009",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "TOYOTA",
+  "car_type": "Wish\/",
+  "car_year": "2009-2016",
+  "wiper_size": "26*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "TOYOTA",
+  "car_type": "Yaris\/",
+  "car_year": "2006-2014",
+  "wiper_size": "24*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "TOYOTA",
+  "car_type": "Yaris\/",
+  "car_year": "2014-",
+  "wiper_size": "24*14",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "TOYOTA",
+  "car_type": "Zace\/",
+  "car_year": "1988-1998",
+  "wiper_size": "16*16",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "TOYOTA",
+  "car_type": "Zace Surtf\/",
+  "car_year": "1999-2007",
+  "wiper_size": "18*18",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "TESLA",
+  "car_type": "Model S\/",
+  "car_year": "2012-",
+  "wiper_size": "28*18",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "TESLA",
+  "car_type": "Model X(噴水頭)\/",
+  "car_year": "2015-",
+  "wiper_size": "28*18",
+  "wiper_cnet": "專用"
+ },
+ {
+  "car_brand": "TESLA",
+  "car_type": "Model 3\/",
+  "car_year": "2012-",
+  "wiper_size": "26*19",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "Volkswagen",
+  "car_type": "Touran\/1T1",
+  "car_year": "2003-2006",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-2A"
+ },
+ {
+  "car_brand": "Volkswagen",
+  "car_type": "Touran\/1T2",
+  "car_year": "2007-2010",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "Volkswagen",
+  "car_type": "Touran\/1T3",
+  "car_year": "2010-2015",
+  "wiper_size": "24*18",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "Volkswagen",
+  "car_type": "Touran\/5T1",
+  "car_year": "2016-",
+  "wiper_size": "28*16",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "Volkswagen",
+  "car_type": "UP!\/",
+  "car_year": "2014-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "Volkswagen",
+  "car_type": "Vento\/",
+  "car_year": "2013-",
+  "wiper_size": "24*16",
+  "wiper_cnet": "K-3"
+ },
+ {
+  "car_brand": "Volkswagen",
+  "car_type": "ESO\/1F7\/1F8",
+  "car_year": "2006-2015",
+  "wiper_size": "24*16",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "Volvo",
+  "car_type": "XC70\/",
+  "car_year": "2002-2004",
+  "wiper_size": "24*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "Volvo",
+  "car_type": "XC70\/",
+  "car_year": "2004-2007",
+  "wiper_size": "24*22",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "Volvo",
+  "car_type": "XC70\/",
+  "car_year": "2007-",
+  "wiper_size": "26*20",
+  "wiper_cnet": "K-4"
+ },
+ {
+  "car_brand": "Volvo",
+  "car_type": "XC90\/",
+  "car_year": "2002-2004",
+  "wiper_size": "24*21",
+  "wiper_cnet": "A"
+ },
+ {
+  "car_brand": "Volvo",
+  "car_type": "XC90\/",
+  "car_year": "2004-2015",
+  "wiper_size": "24*22",
+  "wiper_cnet": "K-6"
+ },
+ {
+  "car_brand": "Volvo",
+  "car_type": "XC90\/",
+  "car_year": "2015-",
+  "wiper_size": "25*20",
+  "wiper_cnet": "K-4"
+ }
+]
